@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Hosted link is here :https://ema-john-beta.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
